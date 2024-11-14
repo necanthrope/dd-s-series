@@ -1,0 +1,19 @@
+{
+  "name": "Unoerthly Cave",
+  "sorting": "a",
+  "folder": null,
+  "type": "Scene",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemVersion": "0.8.1",
+    "coreVersion": "11.315",
+    "createdTime": 1707354787760,
+    "modifiedTime": 1707354790510,
+    "lastModifiedBy": "0i1Xzii7fmBKKZI7"
+  },
+  "_id": "im4ZvGOOkfbXo8Rf",
+  "_key": "!folders!im4ZvGOOkfbXo8Rf"
+}

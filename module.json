@@ -1,0 +1,36 @@
+{
+    "id": "dd-s-series",
+    "name": "dd-s-series",
+    "title": "D&D S series",
+    "description": "D&D  - S Series modules. Packaged as Foundry VTT scenes.",
+    "packs": [
+        {
+            "name": "scenes",
+            "label": "Scenes",
+            "type": "Scene",
+            "path": "packs/scenes.db",
+            "entity": "Scene",
+            "module": "dd-s-series"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Jeremy Tidwell"
+        }
+    ],
+    "version": "#{VERSION}#",
+    "compatibility": {
+        "minimum": 11,
+        "verified": 12.325,
+        "maximum": 12
+    },
+    "relationships": {
+        "requires": [
+            {
+                "id" : "levels",
+                "type": "module",
+                "compatibility": {}
+            }
+        ]
+    }
+}
