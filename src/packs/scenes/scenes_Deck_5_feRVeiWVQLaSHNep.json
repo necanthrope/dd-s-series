@@ -78,7 +78,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -126,7 +125,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -174,7 +172,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -222,7 +219,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -270,8 +266,7 @@
       "hidden": true,
       "flags": {
         "levels": {
-          "rangeTop": 10,
-          "rangeBottom": 0
+          "rangeTop": 10
         },
         "perfect-vision": {
           "resolution": 1

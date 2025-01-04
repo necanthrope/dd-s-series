@@ -78,7 +78,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -126,7 +125,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -174,7 +172,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -222,7 +219,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -270,7 +266,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 80,
           "rangeTop": 90
         },
         "perfect-vision": {
@@ -281,7 +276,7 @@
         }
       },
       "_id": "TjnDtpDKy5u4vZi8",
-      "elevation": 0,
+      "elevation": 80,
       "_key": "!scenes.lights!EcTpxG1lbAN2qHjp.TjnDtpDKy5u4vZi8"
     },
     {
@@ -318,7 +313,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -366,7 +360,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -414,7 +407,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -462,7 +454,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -510,7 +501,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 80,
           "rangeTop": 90
         },
         "perfect-vision": {
@@ -521,7 +511,7 @@
         }
       },
       "_id": "uEnKwnoioxSGkSlq",
-      "elevation": 0,
+      "elevation": 80,
       "_key": "!scenes.lights!EcTpxG1lbAN2qHjp.uEnKwnoioxSGkSlq"
     },
     {
@@ -572,8 +562,7 @@
           }
         },
         "levels": {
-          "rangeTop": 10,
-          "rangeBottom": 0
+          "rangeTop": 10
         },
         "core": {
           "priority": 10
@@ -617,7 +606,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -665,7 +653,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -713,7 +700,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 80,
           "rangeTop": 90
         },
         "perfect-vision": {
@@ -724,7 +710,7 @@
         }
       },
       "_id": "aoGRQ0UnDlfVM8H4",
-      "elevation": 0,
+      "elevation": 80,
       "_key": "!scenes.lights!EcTpxG1lbAN2qHjp.aoGRQ0UnDlfVM8H4"
     },
     {
@@ -761,7 +747,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 80,
           "rangeTop": 90
         },
         "perfect-vision": {
@@ -772,7 +757,7 @@
         }
       },
       "_id": "hmf8wL5HbnOMg68o",
-      "elevation": 0,
+      "elevation": 80,
       "_key": "!scenes.lights!EcTpxG1lbAN2qHjp.hmf8wL5HbnOMg68o"
     },
     {
@@ -809,7 +794,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -857,7 +841,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -905,7 +888,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 80,
           "rangeTop": 90
         },
         "perfect-vision": {
@@ -916,7 +898,7 @@
         }
       },
       "_id": "19ccC9gJJjL6so1R",
-      "elevation": 0,
+      "elevation": 80,
       "_key": "!scenes.lights!EcTpxG1lbAN2qHjp.19ccC9gJJjL6so1R"
     },
     {
@@ -953,7 +935,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 80,
           "rangeTop": 90
         },
         "perfect-vision": {
@@ -964,7 +945,7 @@
         }
       },
       "_id": "cadQDuAR8i8s3UBF",
-      "elevation": 0,
+      "elevation": 80,
       "_key": "!scenes.lights!EcTpxG1lbAN2qHjp.cadQDuAR8i8s3UBF"
     },
     {
@@ -1001,7 +982,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -1049,7 +1029,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -1097,7 +1076,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
@@ -1145,7 +1123,6 @@
       "hidden": false,
       "flags": {
         "levels": {
-          "rangeBottom": 0,
           "rangeTop": 10
         },
         "perfect-vision": {
